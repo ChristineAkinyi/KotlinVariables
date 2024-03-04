@@ -32,7 +32,7 @@ fun weightInKg(weight:Double){
     println(weight)
 }
 
-fun citizenship(word:String){
+fun determineCitizenship(word:String){
     if(word=="isKenyanCitizen") {
         println("True")
     } else {
